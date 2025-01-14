@@ -38,6 +38,8 @@ Clue #3: you can find the source Verilog code at ./src/
 
 Hint: the workflow is only checking if the text is edited / has some content... It doesn't matter what it is....
 
+Once you are done, you can go to Pt 2: https://github.com/gjrchen/UWasic-Training-pt2 - it is a bit more involved
+
 
 
 See below for the template instructions / readme. This is a copy of the TT10 template. Between templates there aren't generally too too many edits. The templates are created by the actual TT team.
