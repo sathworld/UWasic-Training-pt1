@@ -1,3 +1,5 @@
+
+# Introduction and Important Notes
 Hi, welcome to UW ASIC!
 
 This series should help you to play around with some of the tools you will be using to participate in anything TinyTapeout.
@@ -6,7 +8,12 @@ We highly encourage you to ask questions as they come up in the team Discord. It
 
 This is by no means mandatory. If you really wanted to, you can see what bugs I added through the commit history. That isn't the point, rather it is a chance for you to get acquainted with some of the tools we will be using.
 
-Please **DO NOT** make your edits directly to this repository, or try to commit them / make a PR. Rather, **fork it** and play around with your repo as much as you want.
+⭐ Please **DO NOT** make your edits directly to this repository, or try to commit them / make a PR. Rather, **fork it** and play around with your repo as much as you want.
+
+📖 Current Version / Version History:
+v1.0 - Just starting out!
+
+Contributors: Gerry Chen
 
 ## Instructions
 
