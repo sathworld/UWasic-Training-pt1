@@ -17,12 +17,12 @@ project:
   # Source files must be in ./src and you must list each source file separately, one per line.
   # Don't forget to also update `PROJECT_SOURCES` in test/Makefile.
   source_files:
-    - "project.v"
+    - "projct.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "otherpin0"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
@@ -32,7 +32,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "pin0"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
@@ -42,7 +42,7 @@ pinout:
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: ""
+  uio[0]: "bidirectional0"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
